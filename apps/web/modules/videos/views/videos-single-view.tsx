@@ -48,8 +48,8 @@ export default function JoinCall(props: PageProps) {
       callFrame = DailyIframe.createFrame({
         theme: {
           colors: {
-            accent: "#FFF",
-            accentText: "#111111",
+            accent: "#4A90E2",
+            accentText: "#FFFFFF",
             background: "#111111",
             backgroundAccent: "#111111",
             baseText: "#FFF",
